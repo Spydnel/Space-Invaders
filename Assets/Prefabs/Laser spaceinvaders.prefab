@@ -13,12 +13,16 @@ PrefabInstance:
       value: Laser spaceinvaders
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.6937697
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.12046492
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -26,23 +30,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9999896
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.004554364
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0.522
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -133,7 +137,7 @@ BoxCollider2D:
   m_Offset: {x: -0.055000015, y: 0.575}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 1.0000001, y: -0.41269845}
+    pivot: {x: 0.54545456, y: -0.3968254}
     oldSize: {x: 0.11, y: 0.63}
     newSize: {x: 0.11, y: 0.63}
     adaptiveTilingThreshold: 0.5
