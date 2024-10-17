@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Sprite-0004_Frame_0
+  - name: Power up_Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 27
       width: 12
       height: 15
-    spriteID: 05d278a8319c5c542abeb6242a527897
+    spriteID: 4e35b00bff37e754fbe83bd126dd52a7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 27}
-  - name: Sprite-0004_Frame_1
+  - name: Power up_Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 50
       width: 12
       height: 15
-    spriteID: bed555172e7b32b4a956c8d887d85fdc
+    spriteID: aa95a9e5676d0e646a952e763b117b2f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 50}
-  - name: Sprite-0004_Frame_2
+  - name: Power up_Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 73
       width: 12
       height: 15
-    spriteID: 764993789ce54dd4ea51c9d8b14bac0a
+    spriteID: 7768397ce1e706f4cbf39246f9b7b062
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 73}
-  - name: Sprite-0004_Frame_3
+  - name: Power up_Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 96
       width: 12
       height: 15
-    spriteID: 2327cc6d04811b7469f52cf82e468e5c
+    spriteID: 870a9a701c5d5ac4ca64a874ab034dbe
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 96}
-  - name: Sprite-0004_Frame_4
+  - name: Power up_Frame_4
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 4
       width: 12
       height: 15
-    spriteID: 1208d63c697b3144081a844260c34fb2
+    spriteID: efb119ea260c9e04cb5f7d93607b10a0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 25, y: 4}
-  - name: Sprite-0004_Frame_5
+  - name: Power up_Frame_5
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 27
       width: 12
       height: 15
-    spriteID: 6b44d6ca72241bf43b67c0b5ec38a403
+    spriteID: 11601a079a9eab04a903970be834f79d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 25, y: 27}
-  - name: Sprite-0004_Frame_6
+  - name: Power up_Frame_6
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 50
       width: 12
       height: 15
-    spriteID: 61e52796e14872c49994a6615918283a
+    spriteID: 3a4d0768ae2094849ac586307913a2fc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 25, y: 50}
-  - name: Sprite-0004_Frame_7
+  - name: Power up_Frame_7
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 73
       width: 12
       height: 15
-    spriteID: e97bc1458f530494bbfcb97962663396
+    spriteID: 6ed68a517a6ee7a46a5e1885949b8ba3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 25, y: 73}
-  - name: Sprite-0004_Frame_8
+  - name: Power up_Frame_8
     originalName: 
     pivot: {x: 0.53846157, y: -0.06666667}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 4
       width: 13
       height: 15
-    spriteID: b4c21d29697ce1246b8b2ab8a5f40a31
+    spriteID: 51cbb83d672ba0e4ca8ab600177047fa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Sprite-0004_Frame_9
+  - name: Power up_Frame_9
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 96
       width: 12
       height: 15
-    spriteID: 81295c3a5f1ab4147abea5e49c4766bc
+    spriteID: 27a72507ebb32824284f1d7afa55b0dc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 25, y: 96}
-  - name: Sprite-0004_Frame_10
+  - name: Power up_Frame_10
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 4
       width: 12
       height: 15
-    spriteID: 5c0d95baa6e3ee5439511ab548561c61
+    spriteID: 82f8b2be102e82f41bb726f4a775f27e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 45, y: 4}
-  - name: Sprite-0004_Frame_11
+  - name: Power up_Frame_11
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 27
       width: 12
       height: 15
-    spriteID: dcbbc7c8e90081141bcb27ba527cb201
+    spriteID: d903604dfec4306408d438c2455dfec2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -361,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 45, y: 27}
-  - name: Sprite-0004_Frame_12
+  - name: Power up_Frame_12
     originalName: 
     pivot: {x: 0.5, y: -0.06666667}
     alignment: 9
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 50
       width: 12
       height: 15
-    spriteID: 9e4cb268a36252940bf743f5fbea4c8a
+    spriteID: 0a42d15f72b11e2419ab06e5527ad2e8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -384,13 +384,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -572922402
-    name: Sprite-0004
+    guid: -78946304
+    name: Power up
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Sprite-0004_Frame_0
+    - name: Power up_Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -398,8 +398,8 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: 05d278a8319c5c542abeb6242a527897
-    - name: Sprite-0004_Frame_1
+      spriteId: 4e35b00bff37e754fbe83bd126dd52a7
+    - name: Power up_Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -407,8 +407,8 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: bed555172e7b32b4a956c8d887d85fdc
-    - name: Sprite-0004_Frame_2
+      spriteId: aa95a9e5676d0e646a952e763b117b2f
+    - name: Power up_Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -416,8 +416,8 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: 764993789ce54dd4ea51c9d8b14bac0a
-    - name: Sprite-0004_Frame_3
+      spriteId: 7768397ce1e706f4cbf39246f9b7b062
+    - name: Power up_Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -425,8 +425,8 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: 2327cc6d04811b7469f52cf82e468e5c
-    - name: Sprite-0004_Frame_4
+      spriteId: 870a9a701c5d5ac4ca64a874ab034dbe
+    - name: Power up_Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -434,8 +434,8 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: 1208d63c697b3144081a844260c34fb2
-    - name: Sprite-0004_Frame_5
+      spriteId: efb119ea260c9e04cb5f7d93607b10a0
+    - name: Power up_Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -443,8 +443,8 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: 6b44d6ca72241bf43b67c0b5ec38a403
-    - name: Sprite-0004_Frame_6
+      spriteId: 11601a079a9eab04a903970be834f79d
+    - name: Power up_Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -452,8 +452,8 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: 61e52796e14872c49994a6615918283a
-    - name: Sprite-0004_Frame_7
+      spriteId: 3a4d0768ae2094849ac586307913a2fc
+    - name: Power up_Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -461,8 +461,8 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: e97bc1458f530494bbfcb97962663396
-    - name: Sprite-0004_Frame_8
+      spriteId: 6ed68a517a6ee7a46a5e1885949b8ba3
+    - name: Power up_Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -470,8 +470,8 @@ ScriptedImporter:
         y: 1
         width: 13
         height: 15
-      spriteId: b4c21d29697ce1246b8b2ab8a5f40a31
-    - name: Sprite-0004_Frame_9
+      spriteId: 51cbb83d672ba0e4ca8ab600177047fa
+    - name: Power up_Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -479,8 +479,8 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: 81295c3a5f1ab4147abea5e49c4766bc
-    - name: Sprite-0004_Frame_10
+      spriteId: 27a72507ebb32824284f1d7afa55b0dc
+    - name: Power up_Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -488,8 +488,8 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: 5c0d95baa6e3ee5439511ab548561c61
-    - name: Sprite-0004_Frame_11
+      spriteId: 82f8b2be102e82f41bb726f4a775f27e
+    - name: Power up_Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -497,8 +497,8 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: dcbbc7c8e90081141bcb27ba527cb201
-    - name: Sprite-0004_Frame_12
+      spriteId: d903604dfec4306408d438c2455dfec2
+    - name: Power up_Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -506,7 +506,7 @@ ScriptedImporter:
         y: 1
         width: 12
         height: 15
-      spriteId: 9e4cb268a36252940bf743f5fbea4c8a
+      spriteId: 0a42d15f72b11e2419ab06e5527ad2e8
     linkedCells: []
     parentIndex: -1
   platformSettings: []
