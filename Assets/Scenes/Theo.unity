@@ -5172,7 +5172,7 @@ Transform:
   m_GameObject: {fileID: 416109953}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 10}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 11, y: 11, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6133,11 +6133,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefab:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 2473857630857886435, guid: bef69ec2368ed264ca2ca3a2bffa7659, type: 3}
+  - {fileID: 296998867447597935, guid: a4d37fe325312674a971d5218a86e874, type: 3}
   missilePrefab: {fileID: 0}
 --- !u!4 &1944147202
 Transform:
@@ -6148,7 +6145,7 @@ Transform:
   m_GameObject: {fileID: 1944147200}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 5.5, z: 0}
+  m_LocalPosition: {x: 0, y: 5.04, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
