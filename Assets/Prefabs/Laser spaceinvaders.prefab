@@ -13,8 +13,12 @@ PrefabInstance:
       value: Laser spaceinvaders
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.469
+      objectReference: {fileID: 0}
+    - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.6937697
+      value: -3.6656
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: d67116394a1439542ae0703cdcd9ebf0, type: 3}
       propertyPath: m_LocalPosition.y
@@ -133,7 +137,7 @@ BoxCollider2D:
   m_Offset: {x: -0.055000015, y: 0.575}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 1.0000001, y: -0.41269845}
+    pivot: {x: 0.54545456, y: -0.3968254}
     oldSize: {x: 0.11, y: 0.63}
     newSize: {x: 0.11, y: 0.63}
     adaptiveTilingThreshold: 0.5
