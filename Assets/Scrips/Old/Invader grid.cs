@@ -6,10 +6,10 @@ using UnityEngine;
 
 public class Invaders : MonoBehaviour
 {
-    public Invader[] prefab = new Invader[5];
+    public Invader[] prefab = new Invader[4];
 
-    private int row = 5;
-    private int col = 11;
+    private int row = 4;
+    private int col = 5;
 
     private Vector3 initialPosition;
     private Vector3 direction = Vector3.right;
