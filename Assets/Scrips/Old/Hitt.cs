@@ -12,8 +12,9 @@ public class Hitt : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        CheckCollision(collision);
+       Destroy(gameObject);
     }
+
 
 
     // Update is called once per frame

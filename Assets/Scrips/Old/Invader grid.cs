@@ -105,7 +105,7 @@ public class Invaders : MonoBehaviour
     //Flyttar invaders åt sidan
     void Update()
     {
-        float speed = 1f;
+        float speed = 3f;
         transform.position += speed * Time.deltaTime * direction;
 
         Vector3 leftEdge = Camera.main.ViewportToWorldPoint(Vector3.zero);

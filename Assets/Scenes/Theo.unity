@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 370666326}
   - component: {fileID: 370666328}
   - component: {fileID: 370666327}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Particle System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5104,7 +5104,7 @@ GameObject:
   m_Component:
   - component: {fileID: 416109955}
   - component: {fileID: 416109954}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5991,6 +5991,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: -2253911629886400664, guid: 4e713d3ecab91c6459c757208033b1f0, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 4e713d3ecab91c6459c757208033b1f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 25
@@ -6128,7 +6132,7 @@ Transform:
   m_GameObject: {fileID: 1702065413}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 16, z: 0}
+  m_LocalPosition: {x: 0, y: 15, z: 0}
   m_LocalScale: {x: 35, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6173,7 +6177,7 @@ Transform:
   m_GameObject: {fileID: 1944147200}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 18.1, z: 0}
+  m_LocalPosition: {x: -1.2, y: 15.7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6196,7 +6200,7 @@ MonoBehaviour:
   - {fileID: 296998867447597935, guid: a4d37fe325312674a971d5218a86e874, type: 3}
   - {fileID: 2473857630857886435, guid: bef69ec2368ed264ca2ca3a2bffa7659, type: 3}
   - {fileID: 296998867447597935, guid: a4d37fe325312674a971d5218a86e874, type: 3}
-  missilePrefab: {fileID: 0}
+  missilePrefab: {fileID: 6844640857233954956, guid: d7087640aba9e9f4bb140a6f6c7e4eab, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
