@@ -221,15 +221,15 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.0008718396
+    x: 0
     y: 0
-    width: 0.9973845
+    width: 1
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 8.375
+  orthographic size: 15.03125
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -465,6 +465,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Speed: 0.2
   Friction: 0.05
+  Rotation: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
