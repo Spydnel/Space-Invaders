@@ -20,7 +20,7 @@ public class Movement : MonoBehaviour
             (Input.GetKey(KeyCode.D) ? 1 : 0) -
             (Input.GetKey(KeyCode.A) ? 1 : 0)) * Speed * Time.deltaTime;
 
-        transform.position = transform.position + new Vector3(Xvelocity, 0f, 0f);
+        transform.position = transform.position + new Vector3(Xvelocity * Time.deltaTime, 0f, 0f);
         transform.rotation = transform.rotation = Quaternion.AngleAxis(Xvelocity * Rotation, Vector3.forward);
 
         Xvelocity = Xvelocity * Mathf.Pow(Friction, Time.deltaTime);
