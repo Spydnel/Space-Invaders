@@ -43,18 +43,14 @@ public class Player : MonoBehaviour
     {
         if (collision.gameObject.layer == LayerMask.NameToLayer("Missile") || collision.gameObject.layer == LayerMask.NameToLayer("Invader"))
         {
-            GameManager.Instance.OnPlayerKilled(this);
-        }
-    }
-
-    private void OnTriggerEnter(Collider other)
-    {
-
-        if (other.CompareTag("Enemy"))
-        {
             PlayerHit();
+
+            GameManager.Instance.OnPlayerKilled(this);
+
+
         }
     }
+
 
     private void PlayerHit()
     {
