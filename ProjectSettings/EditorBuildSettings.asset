@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/Theo.unity
+    path: Assets/Scenes/Main Game.unity
     guid: a47b0e4d8d96d744dbb0a424304f5004
   - enabled: 1
     path: Assets/Scenes/GameOver.unity

@@ -16,6 +16,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 3626916397498700004, guid: f8ccbdbfb366b0f4bb57549e261f12c9, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1029967550924493334, guid: b828e2c3eaa55684985aff376581352c, type: 3}
     - target: {fileID: 7878350319992209165, guid: f8ccbdbfb366b0f4bb57549e261f12c9, type: 3}
       propertyPath: m_LocalScale.x
       value: 8
@@ -143,21 +147,21 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.004999999, y: 0.08}
+  m_Offset: {x: 0, y: 0.08}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.45454547, y: -0.071428575}
-    oldSize: {x: 0.11, y: 0.14}
-    newSize: {x: 0.11, y: 0.14}
+    pivot: {x: 0.5, y: -0.071428575}
+    oldSize: {x: 0.08, y: 0.14}
+    newSize: {x: 0.05, y: 0.09}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.11, y: 0.14000002}
+  m_Size: {x: 0.08, y: 0.14000002}
   m_EdgeRadius: 0
 --- !u!114 &6844640857233954956
 MonoBehaviour:
