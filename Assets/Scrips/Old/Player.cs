@@ -56,7 +56,7 @@ public class Player : MonoBehaviour
     {
         Debug.Log("Player has been hit!");
 
-        SceneManager.LoadScene("GameOver");
+        SceneManager.LoadScene(1);
     }
 
 
