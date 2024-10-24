@@ -121,18 +121,18 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Banan
+  - name: E-Laser
     originalName: 
-    pivot: {x: 0.45454547, y: -0.071428575}
+    pivot: {x: 0.6, y: -0.44444445}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 11
-      height: 14
-    spriteID: bbf2a33d98e37e946948177e0cdfa693
+      width: 5
+      height: 9
+    spriteID: 04a44ffcdee87494ead0a7dd30ed8481
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -144,21 +144,21 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1797318080
-    name: Banan
+    guid: 333421141
+    name: E-Laser
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Banan
+    - name: E-Laser
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 3
-        y: 1
-        width: 11
-        height: 14
-      spriteId: bbf2a33d98e37e946948177e0cdfa693
+        x: 5
+        y: 4
+        width: 5
+        height: 9
+      spriteId: 04a44ffcdee87494ead0a7dd30ed8481
     linkedCells: []
     parentIndex: -1
   platformSettings: []
